@@ -1,4 +1,4 @@
-#Simple python code to convert 64 digit hex into p2pkh compress and uncompress address at once
+Simple python code to convert 64 digit hex into p2pkh compress and uncompress address at once
 
 **Instructions:**  
 - Place your 64-character hex keys (one per line) in a text file, e.g., `btc.txt`.
